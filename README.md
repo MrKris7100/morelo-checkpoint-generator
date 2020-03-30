@@ -1,7 +1,20 @@
 # MORELO (MRL) Node checkpoints generator
-Generate checkpoints for // Output format for https://github.com/morelo-network/morelo/blob/master/src/checkpoints/checkpoints.cpp arqma-rpc-js.
+Generate checkpoints for MORELO Blockchain
+Output format for https://github.com/morelo-network/morelo/blob/master/src/checkpoints/checkpoints.cpp
 
-Copyright (c) 2019-2020, The Morelo Network
+## Installation:
+
+`git clone https://github.com/morelo-network/morelo-checkpoint-generator`
+
+`cd morelo-checkpoint-generator && npm install @arqma/arqma-rpc`
+
+## Usage:
+
+`node generate.js`
+
+## #Licenses:
+
+Copyright (c) 2020, The ArQmA Network
 
 All rights reserved.
 
