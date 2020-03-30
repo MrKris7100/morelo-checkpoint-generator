@@ -12,7 +12,7 @@ Output format for https://github.com/morelo-network/morelo/blob/master/src/check
 
 `node generate.js`
 
-## #Licenses:
+## Licenses:
 
 Copyright (c) 2020, The ArQmA Network
 
